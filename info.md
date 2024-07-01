@@ -1,18 +1,18 @@
-### Example Project Information
-* [Version 2.8.0](#)
-* <i class="fas fa-flag" style="color:#2ADA08;"></i> Flagship Project
-* <i class="fas fa-hammer" style="color:#233e81;"></i> Breaker
-* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builder
+### Chapter Information
+![OWASP Coimbatore Chapter](assets/images/try_alter/OWASP_Cbe_logo_.png)
 
-* <i class="fas fa-tools" style="color:#233e81;"></i> Tool
+### Social Handles
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-coimbatore/)
+* [Instagram](https://www.instagram.com/owasp_coimbatore/)
+* [Facebook](https://www.facebook.com/owaspcoimbatore/)
+* [LinkedIn](https://www.linkedin.com/company/owasp-coimbatore)
+* [WhatsApp](https://chat.whatsapp.com/BZtQpUzv3gUCpG625Vni3R)
+* [Medium]()
 
 ### Code Repository
-* [repo](#)
+* [GitHub](https://github.com/OWASP/www-chapter-coimbatore)
 
-### Change Log
-* [changes](#)
-
+### Useful Links
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)

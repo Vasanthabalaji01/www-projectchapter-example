@@ -1,94 +1,58 @@
 ---
 
 layout: col-sidebar
-title: OWASP Project-Chapter Example
-tags: example-tag
-level: 2
-type: example
-altfooter: true
-meetup-group: OWASP-Austin-Chapter
-country: 
-postal-code: 
+title: OWASP Coimbatore
+tags: cbe , owaspcbe , next-tag
+region: Asia
+country: India
+meetup-group: owasp-coimbatore
 
 ---
 
-<link rel="stylesheet" href="{{site.base_url}}/assets/css/styles.css">
-<!-- rebuild 35 -->
-{% include address_multiline.html %}
+# OWASP Coimbatore Chapter
 
-{% assign i18n = site.data.i18n_en | where: 'id', 'index' | first %}
+![OWASP Coimbatore Chapter](/assets/images/OWASP_Cbe_Banner.png)
 
-{{ i18n.intro | markdownify }}
+**Welcome to the OWASP Coimbatore chapter homepage!**
 
-**Quick test - something something - Something else**
+The OWASP Coimbatore chapter is dedicated to promoting application security awareness, knowledge sharing, and collaboration among security professionals in the Coimbatore region. 
+OWASP Coimbatore Chapter is led by a passionate group of Chapter leaders - Subash Jaganathan, Arun Saravanan, Rohit Saravanan.
 
-### A List of Donors
+**Call for Speakers**
 
-{% assign individual_supporter = site.data.ow_attributions | uniq %}
-{% for supporter in individual_supporter %}
-* {{ supporter | strip_html | strip_newlines | strip }}
-{% endfor %}
+* Are you an expert in application security? 
+* Are you a beginner who is looking for a platform to showcase your security skills? 
+* We're always looking for enthusiastic speakers to share their knowledge at our events. 
 
-| Heading 1 | Heading 2 | Heading 3 |
-| --- | --- | --- |
-| Data | More Data | Even More Data |
-| Hello | New | World |
+*If you'd like to present a talk, please:*
 
+* Review and agree to the OWASP Speaker Agreement:[OWASP_Speaker_Agreement](https://owasp.org/www-policy/legal/speaker-agreement2)
+* Submit your talk proposal:[OWASP_Speaker_Registration](https://forms.gle/M7zLHXGAdo38Txo27)
 
-<section id="jumphere">
-  This is a test of the jump here fragment
-  </section>
+**Next Meeting/Event(s)**
 
-:+1:
+* Stay tuned for upcoming OWASP Coimbatore Chapter meetings!!! 
+* We'll announce them on our Meetup page [OWASP_Coimbatore_Meetup_Page](https://www.meetup.com/owasp-coimbatore/) 
 
+**Video Recordings of Past Events**
 
-{% for m in site.data.tstmenu %}
-MENU
-{% endfor %}
+* Catch up on past OWASP Coimbatore events by watching the recordings on our YouTube channel
+[OWASP_Coimbatore_Youtube_Page](https://www.youtube.com/owaspcoimbatore) 
 
-<section class="homepage-blog">
-  <h2><a href="{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
-<a><img src="{{ site.posts.first.author_image }}" alt="image"></a>
-<p class="author"><a>{{ site.posts.first.author }}</a><span style="color:#7C7C7C">, {{ site.posts.first.date | date: "%B %e, %Y" }}</span></p>
-<p>{{ site.posts.first.excerpt }}<a href="/www-projectchapter-example{{ site.posts.first.url }}">...read more</a></p>
-</section>
+**Don't forget to SUBSCRIBE to get notified about new videos!!!**
 
-<a class='timeclass'>12:00 - 13:00 - Opening Session</a>
+**Stay Connected**
 
-#### Testing theme data elements
-{% for project in site.data.projects %}
-{{ project.name }}
-{% endfor %}
+Follow us on Linktree for all our social media resources and our mailing list:[OWASP_Coimbatore_Useful_Social_Media_Links](https://linktr.ee/OWASP_CBE)  
 
-{% assign category = site.data.events | where: "category", "Global" | first %}
-   <ul>
-      {% for event in category.events %}
-      <li><a href="{{event.url}}" target="_blank" rel="noopener">{{event.name}}</a></li>
-      {% endfor %}
-   </ul>
-   
-### Check our Upcoming Meetup Events:
-{% include chapter_events.html group=page.meetup-group %}
+**Open to All**
+
+Our meetings are open to the public – no membership is required! We encourage everyone interested in application security to attend.
 
 
-<script type='text/javascript'>
-  $(function(){
-    $(".timeclass").hover(function() {
-      utc_str = $(this).text();
-      ndx = utc_str.indexOf(':');
-      st_hour_str = utc_str.substring(0, ndx);
-      st_min_str = utc_str.substring(ndx + 1, ndx + 3);
-      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(st_hour_str), parseInt(st_min_str), 0);
-      start_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
+**Join OWASP or Sponsor Us**
 
-      ndx = utc_str.lastIndexOf(':');
-      end_hour_str = utc_str.substring(ndx - 2, ndx - 1);
-      end_min_str = utc_str.substring(ndx + 1, ndx + 3);
-      utc_dt = luxon.DateTime.utc(2020, 06, 06, parseInt(end_hour_str), parseInt(end_min_str), 0);
-      end_dt = utc_dt.setZone(luxon.DateTime.local().zoneName);
-      popstr = start_dt.toLocaleString(luxon.DateTime.TIME_WITH_SECONDS) + ' to ' + end_dt.toLocaleString(luxon.DateTime.TIME_WITH_SHORT_OFFSET);
-      $(this).prop('title', popstr);
-    });
-  });  
-</script>
+* Please do consider [joining OWASP](https://owasp.org/membership/)
+* If you find our community, projects, and meetings valuable, consider joining OWASP or becoming a chapter sponsor. Your support helps us continue our mission!
+Please provide your interest in venue sponsorship to EMAIL: subash.jaganathan@owasp.org / arun.saravanan@owasp.org
 
