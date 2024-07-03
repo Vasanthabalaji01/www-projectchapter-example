@@ -11,11 +11,13 @@ tags: next-tag
 
 ## OWASP Coimbatore Combined Monthly Meet - July 6th, 2024
 
+<br>
 <div style="display: flex; justify-content: space-between;">
   <img src="assets/images/events/Ashok_Kumar_Mohan_Event_6_7_2024.jpeg" width="270" height="337.5">
   <img src="assets/images/events/Chandrapal_Bashah_Event_6_7_2024.png" width="270" height="337.5">
   <img src="assets/images/events/Manivannan_Arumugam_Event_6_7_2024.jpeg" width="270" height="337.5">
 </div>
+<br>
 
 ### Event Details
 **Date:** Saturday, July 6, 2024  
