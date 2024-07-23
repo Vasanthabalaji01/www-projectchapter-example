@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6490c975-b4a1-41cd-b18b-24a4d84da64c)---
+---
 title: speakers
 displaytext: Speakers
 layout: null
