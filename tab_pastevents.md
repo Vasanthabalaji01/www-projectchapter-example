@@ -22,7 +22,7 @@ tags: next-tag
       <img src="assets/images/events/Manivannan_Arumugam_Event_6_7_2024.jpeg" width="270" height="337.5">
     </div>
     <br>
-    <strong>Date:</strong> Saturday, July 6, 2024|
+    <strong>Date:</strong> Saturday, July 6, 2024
     <br> 
     <strong>Time:</strong> 5:45 PM – 10:00 PM (IST) 
     <br> 
