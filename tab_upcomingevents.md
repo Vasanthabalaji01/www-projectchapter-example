@@ -19,6 +19,8 @@ Keep an eye on this page for updates and details.</p>
 
 ![Coming Soon](assets/images/coming_soon.gif)
 
+<hr>
+
 {% include chapter_events.html group=page.meetup-group %}
 
 
