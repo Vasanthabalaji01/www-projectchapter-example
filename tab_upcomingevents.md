@@ -13,8 +13,6 @@ tags: next-tag
 
 <p>Stay tuned for our upcoming events! We have exciting meetups, webinars, and workshops planned for you. Keep an eye on this page for updates and details.</p>
 
-<br>
-
 ![Coming Soon](assets/images/coming_soon.gif)
 
 {% include chapter_events.html group=page.meetup-group %}
