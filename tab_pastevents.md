@@ -23,9 +23,9 @@ tags: next-tag
     </div>
     <br>
     <strong>Date:</strong> Saturday, July 6, 2024
-    <br> 
-    <strong>Time:</strong> 5:45 PM – 10:00 PM (IST) 
-    <br> 
+    <br>
+    <strong>Time:</strong> 5:45 PM – 10:00 PM (IST)
+    <br>
     <strong>Location:</strong> Online via Google Meet
     <br>
     <br>
@@ -37,6 +37,7 @@ tags: next-tag
       <li>7:45 PM - 8:30 PM: Manivannan Arumugam - <em>"The Anatomy of Malware Campaign"</em></li>
       <li>8:30 PM - 8:40 PM: Conclusion</li>
     </ul>
+  </p>
 </details>
 
 <hr>
