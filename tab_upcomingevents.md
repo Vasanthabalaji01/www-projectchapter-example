@@ -8,6 +8,8 @@ tags: next-tag
 ---
 
 # Upcoming Events
+<br>
+<br>
 
 ![Comming_soon](assets/images/coming_soon.gif)
 
