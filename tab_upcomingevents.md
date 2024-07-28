@@ -9,7 +9,7 @@ tags: next-tag
 
 # Upcoming Events
 
-
+![Comming_soon](assets/images/coming_soon.gif)
 
 {% include chapter_events.html group=page.meetup-group %}
 
