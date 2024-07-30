@@ -25,10 +25,10 @@ tags: next-tag
     <img src="assets/images/events/owasp_null_meetup_24_8_2024.png" width="50%">
 </div>
 
-<p style="text-align: center;">
+<p style="text-align: center;">👉
     <a href="https://forms.gle/bETPGh6D1rXqSfDFA">
         <img src="https://img.shields.io/badge/Register%20Here-4CAF50?style=for-the-badge&logo=google-forms&logoColor=white" alt="Register Here">
-    </a>
+    </a>👈
 </p>
 
 <p>🎁 <strong>Exciting Giveaway</strong> Don't miss out on our exciting giveaway at the end of the event!</p>
