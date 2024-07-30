@@ -23,13 +23,17 @@ tags: next-tag
 
 <hr>
 
-![OWASP & Null Combined Meetup](assets/images/owasp_null_meetup_24_8_2024.png)
+<div style="text-align: center;">
+    <img src="assets/images/events/owasp_null_meetup_24_8_2024.png" width="50%">
+</div>
+<br>
+<p style="text-align: center;">
+    <a href="https://forms.gle/bETPGh6D1rXqSfDFA">
+        <img src="https://img.shields.io/badge/Register%20Here-4CAF50?style=for-the-badge&logo=google-forms&logoColor=white" alt="Register Here">
+    </a>
+</p>
 
-<hr>
-
-<p><a href="https://forms.gle/bETPGh6D1rXqSfDFA"><img src="https://img.shields.io/badge/Register%20Here-4CAF50?style=for-the-badge&logo=google-forms&logoColor=white" alt="Register Here"></a></p>
-
-<p>🎁 <strong>Exciting Giveaway:</strong><br>
+<p>🎁 <strong>Exciting Giveaway</strong><br>
 Don't miss out on our exciting giveaway at the end of the event!</p>
 
 <hr>
